@@ -21,7 +21,7 @@ countries = {
 }
 
 # การ loop อ่านค่าสมาชิกใน dictionary
-for k in countries.keys():
+for k in countries:
     print(k)
 
 for v in countries.values():

@@ -11,13 +11,7 @@ print(numbers[-1])
 print(names[-2])
 
 # การสร้าง List แบบว่าง
-numbers2 = []
-
-# เพิ่มสมาชิกเข้าไปใน list ว่าง
-numbers2.append(5)
-numbers2.append(10)
-numbers2.append(15)
-numbers2.append(20)
+numbers2 = [5, 10, 15, 20]
 
 print(numbers2)
 
